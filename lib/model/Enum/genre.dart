@@ -1,0 +1,17 @@
+enum Genre{
+ rap,
+  rock,
+  classic,
+  pop,
+  jazz,
+  blues,
+  reggae,
+  country,
+  metal,
+  electronic,
+  folk,
+  indie,
+  soul,
+  funk,
+  disco,
+}
